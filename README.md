@@ -57,9 +57,6 @@ Use the Android picker to import projects from Downloads/Documents. Build the im
 
 Include the Pocket version, Android version, device model, reproduction steps and the complete Gradle error if relevant. Export diagnostics after reproducing. Review logs for account details, tokens and private paths before sharing publicly.
 
-## Release integrity
-
-The release asset is the exact user-supplied signed APK, `PocketAndroidStudio-0.2.10_sign.apk`. SHA256SUMS.txt records its SHA-256. [VERIFICATION.md](VERIFICATION.md) records the package metadata and signer comparison. [CHANGELOG.md](CHANGELOG.md) separates APK changes from this repository refresh.
 
 ## Distribution
 
