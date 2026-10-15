@@ -9,10 +9,3 @@ The previously observed Foojay HTTP 400 reported an unresolved package ID. Local
 Download the APK in Assets. SHA256SUMS.txt provides its checksum. This release uses the supplied signed APK. Its signer differs from the previously supplied APK; an in-place update requires an installed copy signed by this same certificate. Export projects before replacing an incompatible installation.
 
 Known limits: emulator unavailable, upstream Studio updates require a matching ARM64 profile, filesystem watcher restrictions and layout-preview warnings may remain. See README.md.
-
-## Repository refresh — 2026-10-15
-
-- Replaced every earlier screenshot with the five newly supplied device captures.
-- Replaced the release asset with the exact `PocketAndroidStudio-0.2.10_sign.apk`, without modification.
-- Regenerated SHA256SUMS.txt and documented signer/update compatibility.
-- No application source or private signing material is included.
